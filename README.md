@@ -77,7 +77,7 @@ What is this virus/bacteria/fungus? What makes it pathogenic? Is it resistant to
   6.  Trisバッファー(10 mM Tris-HCl pH 8.0 with 50 mM NaCl)を15uL入れ５分静置
   7.  磁石で吸着　5分
   8.  上清を使用  
-  9.  
+
 ### サイズセレクション　version Duo Prime  
 
 [KingFisher Duo Prime](https://www.thermofisher.com/jp/ja/home/life-science/dna-rna-purification-analysis/automated-purification-extraction/kingfisher-systems/models/kingfisher-duo-prime.html)  
@@ -96,9 +96,13 @@ deep wellに試薬を入れる
 
 ## DNA定量 version multiscansky
 [Thermo Scientific™ Multiskan SkyHigh Microplate Spectrophotometer](https://www.thermofisher.com/order/catalog/product/A51119500C#/A51119500C)  
-![skansky](https://assets.thermofisher.com/TFS-Assets/BID/product-images/3-Multiskan%20SkyHigh%20alone-TF%202017%2005%20-26-650x600.jpg-650.jpg)  
+
+<img src="https://assets.thermofisher.com/TFS-Assets/BID/product-images/3-Multiskan%20SkyHigh%20alone-TF%202017%2005%20-26-650x600.jpg-650.jpg" width="200">
+
 [UV-Star, 384ウェル, マイクロプレート](https://shop.gbo.com/ja/japan/products/bioscience/microplates/uv-star-microplates/384-well-uv-star-microplates/781801.html)
-![384 well](https://shop.gbo.com/ja/japan/images/15958205/781801_001.jpg)  
+
+<img src="https://shop.gbo.com/ja/japan/images/15958205/781801_001.jpg" width="200">
+
 
   *  プレートに各アンプリコンを30uL入れる  
   *  Multiskan Skyで「nanopore DNA check」で測定
