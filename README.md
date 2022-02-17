@@ -6,6 +6,22 @@ Rough explanation
   * __マルチプレックスPCR__(クリニックレベルで)  [bioMérieux Japan](https://www.biomerieux-jp.net/clinical/c025.php)  
   * __DNAシークエンサー__  [ilumina](https://jp.illumina.com/systems/sequencing-platforms.html)  
 
+## いままでの菌種同定
+
+ * 同定キット[細菌同定検査キット　アピ/ID32 シリーズ](https://www.biomerieux-jp.net/clinical/c023.php)
+ * 同定キット[BD BBLCRYSTAL™](https://www.bd.com/ja-jp/offerings/capabilities/microbiology-solutions/industrial-microbiology/systems-for-rapid-check-for-industrial-microbiology/bbl-crystal-identification-system)
+
+## 無難な質量分析装置[MALDI-TOF](https://www.bruker.com/ja/products-and-solutions/mass-spectrometry/maldi-tof.html)
+
+価格は・・・
+
+## なにが必要か。
+
+ * どんな微生物でも同定できること
+ * 手技が一定であること
+ * 発育が困難な微生物・発育が遅い微生物でも早く同定できること
+ * 抗菌薬選択の情報が取得できること
+
 ## Oxford Nanopore Technologies(以下ONT).   [oxford nanopore](https://nanoporetech.com/)  
 ## なんでも、だれでも、どこでも  
 
