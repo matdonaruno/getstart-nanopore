@@ -1,12 +1,10 @@
 # getstart-nanopore
-Rough explanation  
+（agenda） A brief description of Nanopore
 
 ## Recollection(感染症検査はなにをしてあげれるのか？)  
 
-  * __マルチプレックスPCR__(クリニックレベルで)  [bioMérieux Japan](https://www.biomerieux-jp.net/clinical/c025.php){:target="_blank"}  
-  * __マルチプレックスPCR__(クリニックレベルで)  <p><a href="https://www.biomerieux-jp.net/clinical/c025.php" target="_blank">bioMérieux Japan</a></p>
-  * <a target="_blank" href="https://www.biomerieux-jp.net/clinical/c025.php">外部サイトへのリンク</a>
-  * __DNAシークエンサー__  [ilumina](https://jp.illumina.com/systems/sequencing-platforms.html){:target="blank"}
+  * __マルチプレックスPCR__(クリニックレベルで)  [bioMérieux Japan](https://www.biomerieux-jp.net/clinical/c025.php)  
+  * __DNAシークエンサー__  [ilumina](https://jp.illumina.com/systems/sequencing-platforms.html)  
 
 ## いままでの菌種同定
 
@@ -27,7 +25,7 @@ Rough explanation
 ## Oxford Nanopore Technologies(以下ONT).   [oxford nanopore](https://nanoporetech.com/)  
 ## なんでも、だれでも、どこでも  
 
-  * 小さな機械.  [MinION](https://nanoporetech.com/products/minion)[Nanopore products](https://nanoporetech.com/products)
+  * 小さな機械.  [MinION](https://nanoporetech.com/products/minion)  ,  [Nanopore products](https://nanoporetech.com/products)
   * 核酸の塩基配列を読み取る. 
 >"Why DNA/RNA?    
 DNA and RNA are molecules that are present in all living things. DNA contains an organism’s genetic code, the instructions for building and operating an organism. RNA is primarily a messenger molecule, carrying instructions from the DNA code to control the synthesis of proteins – the building blocks of organisms.
@@ -54,7 +52,8 @@ How nanopore sequence works(https://www.youtube.com/watch?v=RcP85JHLmnI)
 Introduction to nanopore sequence(https://www.youtube.com/watch?v=qzusVw4Dp8w)
 
 ## シークエンスまでの流れ(まずは16S rRNA sequence) [16S Barcoding Kit 1-24](https://store.nanoporetech.com/16s-barcoding-kit-1-24.html)  
-![16S analysis using real-time, long-read nanopore sequencing](https://nanoporetech.com/sites/default/files/s3/16s-workflow3.svg "workflow")
+![16S analysis using real-time, long-read nanopore sequencing](https://nanoporetech.com/sites/default/files/s3/16s-workflow3.svg "workflow")  
+[16S analysis using real-time, long-read nanopore sequencing](https://nanoporetech.com/analyse/16s)  
 
    1. コロニーからDNAを抽出する  
    2. PCRをかける  
@@ -124,9 +123,18 @@ deep wellに試薬を入れる
 
 [UV-Star, 384ウェル, マイクロプレート](https://shop.gbo.com/ja/japan/products/bioscience/microplates/uv-star-microplates/384-well-uv-star-microplates/781801.html)
 
-<img src="https://shop.gbo.com/ja/japan/images/15958205/781801_001.jpg" width="200">
+<img src="https://shop.gbo.com/ja/japan/images/16097175/781801_01.jpg" width="200">
 
 
   *  プレートに各アンプリコンを30uL入れる  
-  *  Multiskan Skyで「nanopore DNA check」で測定
-  *  各アンプリコンの濃度を100ngになるようにプールしていく
+  *  Multiskan Skyで「nanopore DNA check」で測定  
+  *  各アンプリコンの濃度を100ngになるように1.5mLチューブにプールしていく  
+  *  プールしたライブラリーを5uLを別の1.5uLチューブへ移す  
+  *  kit付属のRAPを0.33uL混ぜて室温５分反応させる  
+  *  そこにkit付属のSequencing Buffer 12.5uLとLoading Beads 15.5uLを混ぜる  
+  *  ライブラリーの完成！
+
+## フローセルのプライミング  
+## フローセルへのライブラリーのロード  
+## シークエンス  
+## フローセルの洗浄  
