@@ -3,8 +3,9 @@ Rough explanation
 
 ## Recollection(感染症検査はなにをしてあげれるのか？)  
 
-  * __マルチプレックスPCR__(クリニックレベルで)  [bioMérieux Japan](https://www.biomerieux-jp.net/clinical/c025.php)  
-  * __DNAシークエンサー__  [ilumina](https://jp.illumina.com/systems/sequencing-platforms.html)  
+  * __マルチプレックスPCR__(クリニックレベルで)  [bioMérieux Japan](https://www.biomerieux-jp.net/clinical/c025.php){:target="_blank"}  
+  * __マルチプレックスPCR__(クリニックレベルで)  <p><a href="https://www.biomerieux-jp.net/clinical/c025.php" target="_blank">bioMérieux Japan</a></p>
+  * __DNAシークエンサー__  [ilumina](https://jp.illumina.com/systems/sequencing-platforms.html){:target="blank"}
 
 ## いままでの菌種同定
 
@@ -25,7 +26,7 @@ Rough explanation
 ## Oxford Nanopore Technologies(以下ONT).   [oxford nanopore](https://nanoporetech.com/)  
 ## なんでも、だれでも、どこでも  
 
-  * 小さな機械.  [Minion](https://nanoporetech.com/products/minion)  
+  * 小さな機械.  [MinION](https://nanoporetech.com/products/minion)[Nanopore products](https://nanoporetech.com/products)
   * 核酸の塩基配列を読み取る. 
 >"Why DNA/RNA?    
 DNA and RNA are molecules that are present in all living things. DNA contains an organism’s genetic code, the instructions for building and operating an organism. RNA is primarily a messenger molecule, carrying instructions from the DNA code to control the synthesis of proteins – the building blocks of organisms.
@@ -46,6 +47,11 @@ What is this virus/bacteria/fungus? What makes it pathogenic? Is it resistant to
 
 >>病原体/微生物学.  
 このウイルス/細菌/真菌は何ですか？それは病原性がありますか？抗菌薬に耐性がありますか？この情報をどのように使用して、それが引き起こす病気を予防または治療できるでしょうか。　　　
+
+## nanopooreの原理  
+How nanopore sequence works(https://www.youtube.com/watch?v=RcP85JHLmnI)   
+Introduction to nanopore sequence(https://www.youtube.com/watch?v=qzusVw4Dp8w)
+
 ## シークエンスまでの流れ(まずは16S rRNA sequence) [16S Barcoding Kit 1-24](https://store.nanoporetech.com/16s-barcoding-kit-1-24.html)  
 ![16S analysis using real-time, long-read nanopore sequencing](https://nanoporetech.com/sites/default/files/s3/16s-workflow3.svg "workflow")
 
