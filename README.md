@@ -5,6 +5,7 @@ Rough explanation
 
   * __マルチプレックスPCR__(クリニックレベルで)  [bioMérieux Japan](https://www.biomerieux-jp.net/clinical/c025.php){:target="_blank"}  
   * __マルチプレックスPCR__(クリニックレベルで)  <p><a href="https://www.biomerieux-jp.net/clinical/c025.php" target="_blank">bioMérieux Japan</a></p>
+  * <a target="_blank" href="https://www.biomerieux-jp.net/clinical/c025.php">外部サイトへのリンク</a>
   * __DNAシークエンサー__  [ilumina](https://jp.illumina.com/systems/sequencing-platforms.html){:target="blank"}
 
 ## いままでの菌種同定
