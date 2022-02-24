@@ -113,7 +113,7 @@ deep wellに試薬を入れる
 ![96 deep-well](https://assets.thermofisher.com/TFS-Assets/BID/product-images/KF%2096%20deep-well%20plate.jpeg-250.jpg)  
   *  A列にAMPure XP beadsを30uL
   *  C,D列に70%エタノールを200uL
-  *  Elusion stripにTrisバッファーを３5uL
+  *  Elusion stripにTrisバッファーを35uL
   *  A列にアンプリコンを全量50uL入れる
   *  Duo Primeの「16s library cleanup」でスタート  
 
