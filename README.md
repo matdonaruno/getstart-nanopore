@@ -6,7 +6,8 @@
   * __マルチプレックスPCR__(クリニックレベルで)  [bioMérieux Japan](https://www.biomerieux-jp.net/clinical/c025.php)  
   * __DNAシークエンサー__  [ilumina](https://jp.illumina.com/systems/sequencing-platforms.html)  
 
-## いままでの菌種同定
+## いままでの菌種同定の難しさ  
+ * WalkAway マイクロスキャンパネル[マイクロスキャン WalkAway Plus](https://jaclas.or.jp/Product/index?id=79317)
 
  * 同定キット[細菌同定検査キット　アピ/ID32 シリーズ](https://www.biomerieux-jp.net/clinical/c023.php)
  * 同定キット[BD BBLCRYSTAL™](https://www.bd.com/ja-jp/offerings/capabilities/microbiology-solutions/industrial-microbiology/systems-for-rapid-check-for-industrial-microbiology/bbl-crystal-identification-system)
