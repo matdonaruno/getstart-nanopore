@@ -96,9 +96,9 @@ Introduction to nanopore sequence(https://www.youtube.com/watch?v=qzusVw4Dp8w)
 <img src="https://media.beckman.com/-/media/genomics/products/purification-and-cleanup/genomics-pcr-purification-agencourt-ampure-xp-2020-01.jpg?h=600&w=600&la=ja&hash=6344A913AC5FDE0F3DBFBB2E98509D944E2FD50A" width="200">
 
   1.  アンプリコンとAMPure　XP　Beads 30uLを混ぜて2分静置  
-<img src="" width="200">  
+<img src="https://user-images.githubusercontent.com/18117653/155850281-def67669-aa77-4ef8-99bb-5e2640cdc6de.jpeg" width="200">  
   2.  磁石で吸着　5分  
-<img src="" width="200">  
+<img src="https://user-images.githubusercontent.com/18117653/155850302-5ef3be6f-4443-4ca8-8e97-358bb4a099c6.jpeg" width="200">  
   3.  70%エタノール 200uLで洗浄  
   4.  上記を3回繰り返す  
   5.  エタノールを乾燥（〜30秒）  
