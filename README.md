@@ -7,6 +7,9 @@
   * __DNAシークエンサー__  [ilumina](https://jp.illumina.com/systems/sequencing-platforms.html)  
 
 ## いままでの菌種同定の難しさ  
+<img src="https://user-images.githubusercontent.com/18117653/155849877-da93d426-e0ad-44f4-816d-9a8c597cbec7.jpeg" width="200">
+<img src="https://user-images.githubusercontent.com/18117653/155849877-da93d426-e0ad-44f4-816d-9a8c597cbec7.jpeg" width="200">
+
  * WalkAway マイクロスキャンパネル[マイクロスキャン WalkAway Plus](https://jaclas.or.jp/Product/index?id=79317)
 
  * 同定キット[細菌同定検査キット　アピ/ID32 シリーズ](https://www.biomerieux-jp.net/clinical/c023.php)
