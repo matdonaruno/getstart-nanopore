@@ -72,7 +72,7 @@ Introduction to nanopore sequence(https://www.youtube.com/watch?v=qzusVw4Dp8w)
 現時点では以前から使用している試薬を使用。  [シカジーニアス® DNA抽出試薬](https://products.kanto.co.jp/web/index.cgi?c=t_product_table&pk=151)  
 ![操作手順](https://products.kanto.co.jp/products/siyaku/images/s_dna_photo1.jpg "dna_extraction_usage")  
   * 試薬bを8連PCRチューブに50uL分注しているものに1uL白金耳にてコロニーを釣菌。  
-<img src="" width="200"><img src="" width="200">
+<img src="https://user-images.githubusercontent.com/18117653/155850411-41cea8f0-0b7f-4155-9a6a-50313287f886.jpeg" width="200"><img src="https://user-images.githubusercontent.com/18117653/155850426-8b7d9628-e7e7-4517-b7e5-242a3339fc0b.jpeg" width="200">
   * その後、試薬aを5uL入れサーマルサイクラーで加熱。  
   * 上清をテンプレートとして使用。  
 ## PCR
@@ -93,7 +93,8 @@ Introduction to nanopore sequence(https://www.youtube.com/watch?v=qzusVw4Dp8w)
 ### サイズセレクション version magnetic rack
 [AMPure XP](https://www.beckman.jp/reagents/genomic/cleanup-and-size-selection/pcr)  
 
-<img src="https://media.beckman.com/-/media/genomics/products/purification-and-cleanup/genomics-pcr-purification-agencourt-ampure-xp-2020-01.jpg?h=600&w=600&la=ja&hash=6344A913AC5FDE0F3DBFBB2E98509D944E2FD50A" width="200">
+<img src="https://media.beckman.com/-/media/genomics/products/purification-and-cleanup/genomics-pcr-purification-agencourt-ampure-xp-2020-01.jpg?h=600&w=600&la=ja&hash=6344A913AC5FDE0F3DBFBB2E98509D944E2FD50A" width="200">  
+[A comprehensive toolkit to enable MinION sequencing in any laboratory  - Miriam Schalamun et al.](https://www.biorxiv.org/content/10.1101/289579v1.full)
 
   1.  アンプリコンとAMPure　XP　Beads 30uLを混ぜて2分静置  
 <img src="https://user-images.githubusercontent.com/18117653/155850281-def67669-aa77-4ef8-99bb-5e2640cdc6de.jpeg" width="200">  
