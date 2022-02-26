@@ -7,8 +7,7 @@
   * __DNAシークエンサー__  [ilumina](https://jp.illumina.com/systems/sequencing-platforms.html)  
 
 ## いままでの菌種同定の難しさ  
-<img src="https://user-images.githubusercontent.com/18117653/155849877-da93d426-e0ad-44f4-816d-9a8c597cbec7.jpeg" width="200">
-<img src="https://user-images.githubusercontent.com/18117653/155849877-da93d426-e0ad-44f4-816d-9a8c597cbec7.jpeg" width="200">
+<img src="https://user-images.githubusercontent.com/18117653/155849877-da93d426-e0ad-44f4-816d-9a8c597cbec7.jpeg" width="200"><img src="https://user-images.githubusercontent.com/18117653/155850017-367636f3-9541-45e3-b9f6-06b2d77c15c5.jpeg" width="200">
 
  * WalkAway マイクロスキャンパネル[マイクロスキャン WalkAway Plus](https://jaclas.or.jp/Product/index?id=79317)
 
@@ -73,6 +72,7 @@ Introduction to nanopore sequence(https://www.youtube.com/watch?v=qzusVw4Dp8w)
 現時点では以前から使用している試薬を使用。  [シカジーニアス® DNA抽出試薬](https://products.kanto.co.jp/web/index.cgi?c=t_product_table&pk=151)  
 ![操作手順](https://products.kanto.co.jp/products/siyaku/images/s_dna_photo1.jpg "dna_extraction_usage")  
   * 試薬bを8連PCRチューブに50uL分注しているものに1uL白金耳にてコロニーを釣菌。  
+<img src="" width="200"><img src="" width="200">
   * その後、試薬aを5uL入れサーマルサイクラーで加熱。  
   * 上清をテンプレートとして使用。  
 ## PCR
@@ -96,7 +96,9 @@ Introduction to nanopore sequence(https://www.youtube.com/watch?v=qzusVw4Dp8w)
 <img src="https://media.beckman.com/-/media/genomics/products/purification-and-cleanup/genomics-pcr-purification-agencourt-ampure-xp-2020-01.jpg?h=600&w=600&la=ja&hash=6344A913AC5FDE0F3DBFBB2E98509D944E2FD50A" width="200">
 
   1.  アンプリコンとAMPure　XP　Beads 30uLを混ぜて2分静置  
+<img src="" width="200">  
   2.  磁石で吸着　5分  
+<img src="" width="200">  
   3.  70%エタノール 200uLで洗浄  
   4.  上記を3回繰り返す  
   5.  エタノールを乾燥（〜30秒）  
