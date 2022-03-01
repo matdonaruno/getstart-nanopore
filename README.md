@@ -100,12 +100,12 @@ Introduction to nanopore sequence(https://www.youtube.com/watch?v=qzusVw4Dp8w)
 <img src="https://user-images.githubusercontent.com/18117653/155850281-def67669-aa77-4ef8-99bb-5e2640cdc6de.jpeg" width="200">  
   2.  磁石で吸着　5分  
 <img src="https://user-images.githubusercontent.com/18117653/155850302-5ef3be6f-4443-4ca8-8e97-358bb4a099c6.jpeg" width="200">  
-  3.  70%エタノール 200uLで洗浄  
-  4.  上記を3回繰り返す  
-  5.  エタノールを乾燥（〜30秒）  
-  6.  Trisバッファー(10 mM Tris-HCl pH 8.0 with 50 mM NaCl)を15uL入れ５分静置
-  7.  磁石で吸着　5分
-  8.  上清を使用  
+  3.  70%エタノール 200uLで洗浄   
+  4.  上記を3回繰り返す   
+  5.  エタノールを乾燥（〜30秒）   
+  6.  Trisバッファー(10 mM Tris-HCl pH 8.0 with 50 mM NaCl)を15uL入れ５分静置  
+  7.  磁石で吸着　5分  
+  8.  上清を使用   
 
 ### サイズセレクション　version Duo Prime  
 
